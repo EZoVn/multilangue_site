@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+*.sqlite3
+local_settings.py
+staticfiles/
+media/
+
+# Environnement
+.env
+.venv
+env/
+
+# Build
+dist/
+build/
+
+# IDE et éditeurs de texte
+.idea/
+.vscode/
+*.swp
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+logs/
+*.log
+*.tmp
